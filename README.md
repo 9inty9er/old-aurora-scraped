@@ -34,9 +34,9 @@ Aurora: An advanced, adaptive AI chatbot capable of understanding context, recog
 
 ### Usage
 
-To start Aurora, run:
-```bash
-python main.py
+   To start Aurora, run:
+   ```bash
+   python main.py
 
 ### Contributing
 
