@@ -47,5 +47,5 @@ This project is licensed under the GNU License - see the LICENSE file for detail
 
 ### Acknowledgments
 
-    Inspired by various AI and chatbot projects
-    Special thanks to the open-source community
+Inspired by various AI and chatbot projects
+Special thanks to the open-source community
