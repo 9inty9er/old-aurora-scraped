@@ -24,15 +24,18 @@ Aurora: An advanced, adaptive AI chatbot capable of understanding context, recog
    cd Aurora
 
 2. Create and activate a virtual environment:
+   ```bash
    python3 -m venv aurora_env
    source aurora_env/bin/activate
 
-3. Install the required packages:
+4. Install the required packages:
+   ```bash
    pip install -r requirements.txt
 
 ### Usage
 
 To start Aurora, run:
+```bash
 python main.py
 
 ### Contributing
