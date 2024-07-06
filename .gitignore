@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -91,3 +92,11 @@ venv.bak/
 
 # Pyre type checker
 .pyre/
+=======
+__pycache__/
+*.pyc
+venv/
+data/
+models/
+
+>>>>>>> 8b7226b (Initial commit with basic project structure and code)
